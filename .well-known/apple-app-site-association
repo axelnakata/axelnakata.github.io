@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "GLM4HJ3467.com.cestaux.Beaming",
+          "GLM4HJ3467.com.cestaux.Beaming.Clip"
+        ],
+        "components": [
+          {
+            "/": "/join",
+            "?": {
+              "room": "?*"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "GLM4HJ3467.com.cestaux.Beaming.Clip"
+    ]
+  }
+}
