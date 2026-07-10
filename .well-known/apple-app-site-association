@@ -3,8 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "GLM4HJ3467.com.cestaux.Beaming",
-          "GLM4HJ3467.com.cestaux.Beaming.Clip"
+          "3LU8LUNSN3.com.nakata.Beaming",
+          "3LU8LUNSN3.com.nakata.Beaming.Clip"
         ],
         "components": [
           {
@@ -19,7 +19,7 @@
   },
   "appclips": {
     "apps": [
-      "GLM4HJ3467.com.cestaux.Beaming.Clip"
+      "3LU8LUNSN3.com.nakata.Beaming.Clip"
     ]
   }
 }
